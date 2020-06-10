@@ -4,7 +4,7 @@ function Dinner (props){
     return(
         <div>
         
-        <h1>My Favourite Country is {props.stateName} and its city is {props.cityName} </h1>
+        <h1>My Favourite Country is {props.stateName} and its Best City is {props.cityName} </h1>
         </div>
     );
 }
